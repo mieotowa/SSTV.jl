@@ -1,0 +1,16 @@
+name = "SSTV"
+uuid = "312aba6f-b039-47ca-9d74-d4c721be2aca"
+version = "0.1.0"
+
+[deps]
+ImageCore = "a09fc81d-aa75-5fe9-8630-4744c3626534"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
+
+[compat]
+ImageCore = "0.10.5"
+Revise = "3.13.2"
+WAV = "1.2.0"
+julia = "1.12.4"
